@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "498028759868",
+    "project_id": "beautycon-ffb16",
+    "storage_bucket": "beautycon-ffb16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498028759868:android:00e9624fc7063f8c9dec39",
+        "android_client_info": {
+          "package_name": "com.upbdmabn.beautycon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498028759868-9ed3bqhdnb40rn72lnd4ottbqjg9g3lv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.upbdmabn.beautycon",
+            "certificate_hash": "42458d49fd67f0cd3d5c51e51ad0b0d15de7b110"
+          }
+        },
+        {
+          "client_id": "498028759868-i71icqo0n6m46588udhru2s1m17tkdvn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3ABixS1hNNtLW25qVxHT-z7f5yydAYHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "498028759868-i71icqo0n6m46588udhru2s1m17tkdvn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
